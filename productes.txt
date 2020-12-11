@@ -1,0 +1,12 @@
+fanta;naranja;1;35;1
+fanta;limon;1;35;2
+fanta;zero;1;35;4
+cocacola;clasica;2;35;5
+cocacola;light;2;35;6
+cocacola;zero;2;35;7
+nestea;clasica;1.5;35;8
+nestea;te verde;1.5;35;9
+nestea;zero;1.5;35;10
+redbull;clasica;2.5;35;11
+redbull;freesugar;2.5;35;12
+redbull;zero;2.5;35;13

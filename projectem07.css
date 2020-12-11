@@ -1,0 +1,682 @@
+.logn{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 250px;
+    left: 740px;
+    text-decoration:none;
+}
+
+.logn:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+.sign{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 350px;
+    left: 740px;
+    text-decoration:none;
+
+}
+.logna{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 300px;
+    left: 740px;
+    text-decoration:none;
+}
+.logna:hover{
+
+    background-color: black;
+    color: white;
+
+}
+.logout{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 100px;
+    left: 1300px;
+    text-decoration:none;
+}
+.logout:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.veco{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 250px;
+    left: 550px;
+    text-decoration:none;
+
+}
+
+
+.elpo{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 350px;
+    left: 740px;
+    text-decoration:none;
+
+}
+
+.elpo:hover{
+
+    background-color: black;
+    color: white;
+
+}
+.signa{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 300px;
+    left: 740px;
+    text-decoration:none;
+
+}
+
+.signa:hover{
+
+    background-color: black;
+    color: white;
+
+}
+.elpoa{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 400px;
+    left: 740px;
+    text-decoration:none;
+
+}
+
+.elpoa:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+
+.veco:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.sign:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+.nom{
+
+    position: fixed;
+    top: 250px;
+    left: 700px;
+
+}
+
+.boxnom{
+
+    position: fixed;
+    top: 290px;
+    left: 700px;
+
+}
+
+.con{
+
+    position: fixed;
+    top: 300px;
+    left: 700px;
+
+}
+
+.boxcon{
+
+    position: fixed;
+    top: 340px;
+    left: 700px;
+
+}
+
+
+.env{
+
+    position: fixed;
+    top: 370px;
+    left: 700px;
+
+}
+
+
+.esb{
+
+    position: fixed;
+    top: 370px;
+    left: 760px;
+
+}
+
+.crpr{
+
+    position: fixed;
+    top: 200px;
+    left: 700px;
+
+}
+
+
+.logoc{
+
+    height: 100px;
+    width: 200px;
+    position: fixed;
+    top: 300px;
+    left: 200px;
+    
+
+}
+
+.logof{
+
+    height: 100px;
+    width: 200px;
+    position: fixed;
+    top: 300px;
+    left: 500px;
+    
+
+}
+
+.logon{
+
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 250px;
+    left: 800px;
+    
+
+}
+
+.logor{
+
+    height: 100px;
+    width: 200px;
+    position: fixed;
+    top: 300px;
+    left: 1100px;
+    
+
+}
+
+.carrito{
+
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    left: 1400px;
+    bottom: 600px;
+    
+
+}
+
+.cola{
+
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    
+
+}
+
+.clight{
+
+    height: 200px;
+    width: 300px;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+    
+
+}
+
+.czero{
+
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 200px;
+    left: 900px;
+    
+
+}
+
+.bck{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 650px;
+    text-decoration:none;
+
+}
+
+
+.cmp{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 750px;
+    text-decoration:none;
+
+}
+
+.bck:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.cmp:hover{
+
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.fanta{
+
+    height: 220px;
+    width: 200px;
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    
+
+}
+
+.fantal{
+
+    height: 220px;
+    width: 250px;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+    
+
+}
+
+.fzero{
+
+    height: 270px;
+    width: 200px;
+    position: fixed;
+    top: 170px;
+    left: 850px;
+    
+
+}
+
+.bck{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 650px;
+    text-decoration:none;
+
+}
+
+
+.cmp{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 750px;
+    text-decoration:none;
+
+}
+
+.bck:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.cmp:hover{
+
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.nesteal{
+
+    height: 230px;
+    width: 250px;
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    
+
+}
+
+.nesteav{
+
+    height: 220px;
+    width: 250px;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+    
+
+}
+
+.nzero{
+
+    height: 240px;
+    width: 180px;
+    position: fixed;
+    top: 190px;
+    left: 900px;
+    
+
+}
+
+.bck{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 650px;
+    text-decoration:none;
+
+}
+
+
+.cmp{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 750px;
+    text-decoration:none;
+
+}
+
+.bck:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.cmp:hover{
+
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+.redbull{
+
+    height: 250px;
+    width: 250px;
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    
+
+}
+
+.redbulls{
+
+    height: 220px;
+    width: 250px;
+    position: fixed;
+    top: 200px;
+    left: 600px;
+    
+
+}
+
+.rzero{
+
+    height: 220px;
+    width: 200px;
+    position: fixed;
+    top: 190px;
+    left: 900px;
+    
+
+}
+
+.bck{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 650px;
+    text-decoration:none;
+
+}
+
+
+.cmp{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    border-style: solid;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    top: 500px;
+    left: 750px;
+    text-decoration:none;
+
+}
+
+.bck:hover{
+
+    background-color: black;
+    color: white;
+
+}
+
+
+.cmp:hover{
+
+    background-color: black;
+    color: white;
+}
